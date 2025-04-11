@@ -345,9 +345,8 @@ description: "Roboticist · Poet · Racer"
 location: "Ann Arbor, MI"
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
+      type: "pages"
     values:
-      layout: "single"
-
+      layout: splash
