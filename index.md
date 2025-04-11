@@ -7,15 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/header.jpg
-actions:
-  - label: "Explore Projects"
-    url: "/projects/"
-  - label: "Read Poems"
-    url: "/poems/"
-  - label: "View Gallery"
-    url: "/gallery/"
-  - label: "Contact Me"
-    url: "/contact/"
+
 ---
 
 Welcome to my world! I’m a robotics enthusiast, occasional poet, and part-time racer.
