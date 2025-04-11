@@ -5,15 +5,7 @@ permalink: /projects/
 ---
 
 
-### 🚗 Reinforcement Learning & SNN for Autonomous Driving  
-**GitHub:** [View Project](https://github.com/YOUR_USERNAME/rl-snn-driving)
 
-Developed autonomous driving decision algorithms with reinforcement learning and Spiking Neural Networks (SNN). Designed a custom motor controller and USB communication hub for Jetson Orin NX, interfacing with radar and camera sensors. Successfully validated the SNN-based decision-making in scaled-down sandbox environments.
-
-**Demo Video**  
-{% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
-
----
 
 ### Development and Autonomous Navigation of 8-DOF and 12-DOF Quadruped Robots
 **GitHub:** [View Project](https://github.com/eggsyxu/Pangolin_SCU/tree/master)
@@ -26,10 +18,31 @@ Led image recognition and object detection development using RealSense and YOLO,
 
 ---
 
+### Reinforcement Learning & SNN for Autonomous Driving  
+**GitHub:** [View Project](https://github.com/YOUR_USERNAME/rl-snn-driving)
+
+Developed autonomous driving decision algorithms with reinforcement learning and Spiking Neural Networks (SNN). Designed a custom motor controller and USB communication hub for Jetson Orin NX, interfacing with radar and camera sensors. Successfully validated the SNN-based decision-making in scaled-down sandbox environments.
+
+**Demo Video**  
+{% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
+
+---
+
 ### Soft Robotics Gripper with Rich Sensing  
 **GitHub:** [View Project](https://github.com/eggsyxu/Soft_Gripper_with_Flexible_Thermal_and_Pressure_Sensor)
 
 Engineered a soft robotic gripper using 3D-printed molds and custom-designed thermal/pressure sensors. Performed simulations in ANSYS and developed a closed-loop control circuit with STM32 to ensure precise manipulation and robust data collection.
+
+**Demo Video**  
+{% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
+
+
+---
+
+### EMG-Controlled Robotic Arm for Grasping Tasks  
+**GitHub:** [View Project](https://github.com/eggsyxu/EMG_Signal_Control_Robotics_Arm)
+
+Designed a bio-interfacing control system for a 4-DOF robotic arm using EMG signals from the human hand. Developed custom amplification and band-pass filtering circuits, implemented rule-based signal classification to identify muscle activation patterns, and mapped them to robotic arm commands including forward, backward, lateral motion, and grasp. Applied forward kinematics to achieve precise real-time control of the end-effector.
 
 **Demo Video**  
 {% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
@@ -44,15 +57,7 @@ Designed and simulated a rope-climbing robot in SolidWorks and ANSYS, optimizing
 **Demo Video**  
 {% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
 
----
 
-### EMG-Controlled Robotic Arm for Grasping Tasks  
-**GitHub:** [View Project](https://github.com/eggsyxu/EMG_Signal_Control_Robotics_Arm)
-
-Designed a bio-interfacing control system for a 4-DOF robotic arm using EMG signals from the human hand. Developed custom amplification and band-pass filtering circuits, implemented rule-based signal classification to identify muscle activation patterns, and mapped them to robotic arm commands including forward, backward, lateral motion, and grasp. Applied forward kinematics to achieve precise real-time control of the end-effector.
-
-**Demo Video**  
-{% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
 
 ---
 
