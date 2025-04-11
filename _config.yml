@@ -351,3 +351,9 @@ defaults:
       type: "pages"
     values:
       layout: splash
+
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
