@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Eggsy Xu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_photo.PNG"
   bio              : "Roboticist · Poet · Racer"
   location         : "Ann Arbor, MI"
   email            : # eggsyxu@umich.edu
