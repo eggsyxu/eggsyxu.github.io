@@ -339,6 +339,11 @@ navigation:
   - title: "Contact"
     url: "/contact/"
 
+---
+layout: splash
+permalink: /
+...
+
 title: "Eggsy Xu"
 name: "Eggsy Xu"
 description: "Roboticist · Poet · Racer"
