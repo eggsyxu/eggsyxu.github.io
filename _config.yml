@@ -338,3 +338,16 @@ navigation:
     url: "/gallery/"
   - title: "Contact"
     url: "/contact/"
+
+title: "Eggsy Xu"
+name: "Eggsy Xu"
+description: "Roboticist · Poet · Racer"
+location: "Ann Arbor, MI"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "single"
+
