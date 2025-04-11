@@ -324,3 +324,17 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# 在 _config.yml 中添加：
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Poems"
+    url: "/poems/"
+  - title: "Gallery"
+    url: "/gallery/"
+  - title: "Contact"
+    url: "/contact/"
