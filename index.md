@@ -4,7 +4,9 @@ title: "Hi, I'm Eggsy 👋"
 permalink: /
 ---
 
-I’m currently a master’s student at the University of Michigan, pursuing a dual degree in Robotics and Biomedical Engineering. My research focuses on legged robots, bio-sensing driven prosthetics, and robotic arms. I received my bachelor’s degree in Measurement, Control, and Instrumentation from Sichuan University, and previously worked as a visiting student at Westlake University under the supervision of Professor Sawan.
+I’m currently a master’s student at the University of Michigan, pursuing a dual degree in Robotics and Biomedical Engineering. 
+
+My research focuses on legged robots, bio-sensing driven prosthetics, and robotic arms. I received my bachelor’s degree in Measurement, Control, and Instrumentation from Sichuan University, and previously worked as a visiting student at Westlake University under the supervision of Professor Mohamad Sawan.
 
 Outside of academics, I have a wide range of interests, especially in motorsports. I enjoy racing, drifting, jet skiing, and snowmobiling, as well as playing badminton, photography, and exploring home theater audio systems.
 
@@ -31,6 +33,7 @@ header:
       url: "/gallery/"
     - label: "Contact Me"
       url: "/contact/"     
+      
 ---
 
 Welcome to my world — I’m a robotics enthusiast, occasional poet, and part-time racer.
