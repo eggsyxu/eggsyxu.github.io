@@ -1,3 +1,11 @@
+---
+layout: single
+author_profile: true
+title: "About Me"
+permalink: /
+---
+
+
 
 My name is Guangxuan (Eggsy) Xu. Welcome to my world! 
 

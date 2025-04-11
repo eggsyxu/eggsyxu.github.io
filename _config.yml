@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/eggsyxu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -326,34 +326,3 @@ defaults:
       related: true
 
 
-# # 在 _config.yml 中添加：
-# navigation:
-#   - title: "Home"
-#     url: "/"
-#   - title: "Projects"
-#     url: "/projects/"
-#   - title: "Poems"
-#     url: "/poems/"
-#   - title: "Gallery"
-#     url: "/gallery/"
-#   - title: "Contact"
-#     url: "/contact/"
-
-
-# title: "Eggsy Xu"
-# name: "Eggsy Xu"
-# description: "Roboticist · Poet · Racer"
-# location: "Ann Arbor, MI"
-
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: splash
-
-#   - scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: single
