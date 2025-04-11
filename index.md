@@ -1,7 +1,22 @@
+
 ---
 layout: splash
-title: "Hi, I'm Eggsy 👋"
-permalink: /
+title: "Eggsy Xu"
+subtitle: "Roboticist · Poet · Racer"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/header.jpg
+actions:
+  - label: "Explore Projects"
+    url: "/projects/"
+  - label: "Read Poems"
+    url: "/poems/"
+  - label: "View Gallery"
+    url: "/gallery/"
+  - label: "Contact Me"
+    url: "/contact/"
+
 ---
 
 I’m currently a master’s student at the University of Michigan, pursuing a dual degree in Robotics and Biomedical Engineering. 
@@ -16,25 +31,7 @@ Outside of academics, I have a wide range of interests, especially in motorsport
 - 🎨 See my [Gallery](/gallery/)
 - 📬 [Contact Me](/contact/)
 
----
-layout: splash
-title: "Eggsy Xu"
-subtitle: "Roboticist · Poet · Racer"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/header.jpg
-  actions:
-    - label: "Explore Projects"
-      url: "/projects/"
-    - label: "Read Poems"
-      url: "/poems/"
-    - label: "View Gallery"
-      url: "/gallery/"
-    - label: "Contact Me"
-      url: "/contact/"     
-      
----
+
 
 Welcome to my world — I’m a robotics enthusiast, occasional poet, and part-time racer.
 
