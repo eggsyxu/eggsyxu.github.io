@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Poems"
+permalink: /poems/
+---
+
+
 # 📝 Poems by Eggsy Xu
 
 ## 📚 Index
