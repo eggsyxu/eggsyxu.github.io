@@ -10,11 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-    - title: "Explore Projects"
+    - title: "Projects"
       url: "/projects/"
-    - title: "Read Poems"
+    - title: "Poems"
       url: "/poems/"
-    - title: "View Gallery"
+    - title: "Gallery"
       url: "/gallery/"
     - title: "Contact Me"
       url: "/contact/"

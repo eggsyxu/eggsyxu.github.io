@@ -1,16 +1,5 @@
 
----
-layout: splash
-title: "Eggsy Xu"
-subtitle: "Roboticist · Poet · Racer"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/header.jpg
-
----
-
-Welcome to my world! I’m a robotics enthusiast, occasional poet, and part-time racer.
+My name is Guangxuan (Eggsy) Xu. Welcome to my world! 
 
 I’m currently a master’s student at the University of Michigan, pursuing a dual degree in Robotics and Biomedical Engineering. 
 
@@ -18,7 +7,6 @@ My research focuses on legged robots, bio-sensing driven prosthetics, and roboti
 
 Outside of academics, I have a wide range of interests, especially in motorsports. I enjoy racing, drifting, jet skiing, and snowmobiling, as well as playing badminton, photography, and exploring home theater audio systems.
 
-📍 **Currently based in Ann Arbor, Michigan.**
 
 
 - Explore my [Projects](/projects/)
