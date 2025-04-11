@@ -16,5 +16,3 @@ main:
       url: "/poems/"
     - title: "Gallery"
       url: "/gallery/"
-    - title: "Contact Me"
-      url: "/contact/"

@@ -20,7 +20,6 @@ Outside of academics, I have a wide range of interests, especially in motorsport
 - Explore my [Projects](/projects/)
 - Read some [Poems](/poems/)
 - See my [Gallery](/gallery/)
-- [Contact Me](/contact/)
 
 
 
