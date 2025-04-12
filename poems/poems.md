@@ -1,17 +1,13 @@
 ---
 layout: single
-title: "Poems"
+title: "Poems by Eggsy Xu"
 permalink: /poems/
 ---
 
-
-# Poems by Eggsy Xu
-
 ## Index
-- [Poems by Eggsy Xu](#poems-by-eggsy-xu)
-  - [Index](#index)
-  - [Seven Deadly Sins](#seven-deadly-sins)
-  - [To the Ants](#to-the-ants)
+- [Index](#index)
+- [Seven Deadly Sins](#seven-deadly-sins)
+- [To the Ants](#to-the-ants)
 
 ---
 
@@ -61,7 +57,7 @@ On yellowed parchment, every period
 blinks festering eyes,  
 beaming at the carnival of human rot.
 
-_February 9, 2025, Predawn_
+_-February 9, 2025, Predawn_
 
 ---
 
@@ -80,5 +76,5 @@ I, too, trembled in uneasy breath.
 But you stole what was mine—  
 gnawed at hours I meant to discard.
 
-_June 9, 2020_
+_-June 9, 2020_
 
