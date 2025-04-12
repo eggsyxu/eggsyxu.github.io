@@ -108,9 +108,8 @@ Children kick balls of testicle-leather,
 rats sup duodenum stew with silver spoons.
 
 A bronze bell charring in stratospheric flames—  
-God keeps his porcelain silence.  
-On yellowed parchment, every period  
-blinks festering eyes,  
+God keeps his benevolent silence.  
+On yellowed parchment, every period blinks festering eyes,  
 beaming at the carnival of human rot.
 
 _- February 9, 2025, Predawn_
