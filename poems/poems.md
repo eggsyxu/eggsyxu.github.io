@@ -5,37 +5,63 @@ permalink: /poems/
 ---
 
 
-# 📝 Poems by Eggsy Xu
+# Poems by Eggsy Xu
 
-## 📚 Index
-
-- [📝 Poems by Eggsy Xu](#-poems-by-eggsy-xu)
-  - [📚 Index](#-index)
-  - [《又三年》 — Sep 2023](#又三年--sep-2023)
-  - [《筋疲力尽》 — Oct 2023](#筋疲力尽--oct-2023)
+## Index
+- [Poems by Eggsy Xu](#poems-by-eggsy-xu)
+  - [Index](#index)
+  - [Seven Deadly Sins](#seven-deadly-sins)
   - [To the Ants](#to-the-ants)
 
 ---
 
-## 《又三年》 — Sep 2023
+## Seven Deadly Sins
 
-窗外是旧时的槐树，  
-屋内是我曾错过的你。  
-三年转瞬，梦已飘零，  
-只剩告别时没说出的那句——再见。
+_(For Those Born with Malice in Their Veins)_
 
-_— Eggsy Xu, Sep 2023_
+Nailed to the cross of spit and blame—  
+for failing to halt death’s choreography.  
+Testimonies pile into gallows,  
+each barbed punctuation a crown of thorns,  
+no advocate in this masquerade tribunal.
 
----
+Marble judgment seats sprout hypocrite-hatched fungi:  
+the most elitist mold preaches against elitism,  
+the clique-forming spores chant unity hymns,  
+the nepotism mycelium judges the competent.  
+Chopin’s waltz swells the funeral bells,  
+blood-caked oxfords and stilettos
 
-## 《筋疲力尽》 — Oct 2023
+spin ecstatically,  
+autographing air with inked claws.
 
-石家庄的风吹过我的背，  
-你说别哭，要像个男人。  
-可我只是路人，不是战士，  
-我只想说：我也想被人等。
+My confession chokes at the Adam’s apple—  
+I denounce this guilt,  
+for you all cradle sins in your marrow  
+while posing as cherubs.
 
-_— Eggsy Xu, Oct 2023_
+You faux-penitents,  
+who claim to witness death’s descent  
+yet quiver with voyeuristic rapture—  
+invent hemorrhaging grammars  
+to suture soul-cracks too vile to behold.  
+Sermonizing in virtue’s stolen robes,  
+you magnify my crimes,  
+flog my dignity,  
+sentence me with maggot-riddled gavels!
+
+My ribs, stripped bare,  
+etch with nursery rhymes dipped in arsenic.  
+Children kick balls of testicle-leather,  
+rats sup duodenum stew with silver spoons.
+
+A bronze bell charring in stratospheric flames—  
+God keeps his porcelain silence.  
+On yellowed parchment, every period  
+blinks festering eyes,  
+beaming at the carnival of human rot.
+
+_February 9, 2025, Predawn_
 
 ---
 
@@ -54,4 +80,5 @@ I, too, trembled in uneasy breath.
 But you stole what was mine—  
 gnawed at hours I meant to discard.
 
-_— Eggsy Xu, Apr 2025_
+_June 9, 2020_
+
