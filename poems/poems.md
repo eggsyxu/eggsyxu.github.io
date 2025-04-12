@@ -27,23 +27,38 @@ permalink: /poems/
 **The poems published on this website are excerpts from my already published poetry collection.**
 
 It’s been three years since I wrote the preface to the first edition of the book—three years since the college entrance exam.  
+
 Life is divided by self-defined chapters: three years of middle school, three of high school, three of college. Senior year, with few classes, I labeled as my first step into society.  
+
 College finally pulled me out of a meaningless life, giving me more time to do the things I love. My only regret is not reading enough outside of class. Most of the time, my days were filled with academic books. Although those texts also gave me great fulfillment and satisfied my thirst for knowledge, I often thought: if I could explore a broader intellectual world during this final window of youth, it would be a blessing.  
+
 As for how I began writing poetry, I vaguely remember it started around 2017, my final year of middle school. That was when my mind was awakening, and the pressure was immense. Li Bai once said, “Literature despises those with smooth paths in life.” I think the poems I wrote back then were quite immature, since my real hardships—those repetitive rock-bottom days—had not yet begun.  
+
 Back to poetry. I believe anyone has the right to write poems—majestic ones, borrowed ones, angry ones, or gentle ones. I admire them all. Perhaps I wouldn’t love reading every single one, but I deeply respect and embrace the tradition of poetry that has accompanied human civilization since its birth. Everyone deserves a chance to leave their emotions and stories in history, regardless of whether someone will ever unearth them.  
+
 Of course, to be honest, what matters most isn't the connection to history—but the connection to yourself. Before cameras, poetry was the best tool of memory—not as cold as prose, but a vessel of soul.  
+
 For me, poetry is almost instinctive. I’m highly sensitive to the world around me. My spirit is resilient enough to bear strong shocks, so I can amplify delicate emotions without self-destruction. In this sense, I believe I have a gift.  
+
 My poetry rarely follows structure—I write as thoughts arise. I once tried a traditional poetic form called *Manjianghong*, but ended up too embarrassed to continue. I’ve always disliked ornate rhetoric and obscure allusions (perhaps because I lack the ability and feel jealous). Tang poetry is full of these, so I never really clicked with it as a child. I prefer Song lyrics—they’re strict with rhyme, but never feel suffocating. Foreign poetry is wonderful, too. Though translations lose some native beauty, they remain wonderfully free.  
+
 Back in 2017, my poems were often a blend of stolen lines and borrowed phrases. Now, they make me laugh—but back then, I was proud of them. After the high school entrance exam, I met my “captain,” Mr. Xu Tao. He probably doesn’t remember me, but I have to mention him. He was my first real mentor, who guided us through poetry, films, and essays. Thanks to him, my talent—whatever that word means—was fully ignited.  
+
 That was when I realized I needed to pause and absorb more. I read many books. My life at that time, from a worldly view, was at a low point. Pain made me more attuned to subtle emotions and beauty. I believe that was my poetic awakening.  
+
 In high school, my poems were always *distant and misty*. That may sound vague, but it’s the best term I could find. That kind of ambiguous beauty—ethereal, untouchable, and intoxicating. At that point in life, I wasn’t angry at the world—I was wrapped in a transparent bubble, an otherworldly sanctuary. So all my poetry was rooted in that utopia, filled with the kind of distance and loveliness one can only remember.  
+
 Back then, I believed girls were beautiful. They were frequent guests in my poems, neighbors in films. Without them, half of my poems would never have been born. To all the beautiful girls of my high school: even if you’ve lost joy, reason, or spirit now—your former selves live forever in my ink.  
+
 Sometimes, I feel like I’ve lost my muse. I’ve devoted my inspiration to this grounded land. I’ve begun to *rage against the dying of the light*. These newer poems, in hindsight, are mostly negative. Poetry became a vessel for my emotions—a bridge between dream and reality. It no longer recorded beauty, but instead expressed pain and madness. It became a place for confusion at waking, for the weight of realism, for rage and critique. Not beauty, but affliction.  
+
 I know every writer has this phase. While I don’t claim to be a writer, I didn’t expect this suffering to come so early in adulthood. Even when my poems recall beautiful memories, I only want to cling to them—relive yesterday. Like a time machine that can never exist.  
+
 And now, I remember why I wanted to write this prologue. Why I made this collection—maybe it’s more of an anthology. Whether life is painful, joyful, or dull, I believe my life is worth remembering. I won’t cast myself as the protagonist of my life. I love that title, but such arrogance would suggest my suffering existed only to shape me—and I reject that.  
+
 We all search for proof that we were here. Mine is in every page. Though fragmented, and though I believe poetry is deeply personal, it is real. I hope my future self can see who I truly was. I hope *you*, now, can see who I was. Of course, I also *don’t* hope you see who I was—because all this sentimentality is only here out of pre-publication decorum.  
-I always hoped this preface would end seriously,  
-so I added this line—one that even makes me laugh.
+
+I always hoped this preface would end seriously, so I added this line—one that even makes me laugh.
 
 *I hope you enjoy it.*
 
@@ -192,10 +207,7 @@ and time bleeding into itself.
 
 _- October 29, 2023, Dawn_
 
-
-
-
---
+---
 
 ## Record
 
@@ -213,10 +225,6 @@ Every cloned version of me
 deserves to be just as happy.
 
 _- September 23, 2023, Before Dawn_
-
-
-
----
 
 ---
 
