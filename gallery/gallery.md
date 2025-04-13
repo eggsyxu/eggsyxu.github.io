@@ -21,10 +21,12 @@ permalink: /gallery/
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+  justify-content: flex-start;
 }
 
 .gallery img {
-  width: calc(20% - 10px); /* 每行最多5张图 */
+  flex: 1 1 calc(33.33% - 10px); /* 每张图最小33%，自动排布 */
+  max-width: calc(33.33% - 10px);
   height: auto;
   border-radius: 8px;
   object-fit: cover;
@@ -37,20 +39,26 @@ permalink: /gallery/
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .gallery img {
-    width: calc(50% - 10px);
+    flex: 1 1 calc(50% - 10px);
+    max-width: calc(50% - 10px);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .gallery img {
+    flex: 1 1 100%;
+    max-width: 100%;
   }
 }
 </style>
-
 ---
 
 
 ### <a name="car"></a> My car: CT5-V Blackwing
 
 <div class="gallery-section">
-  <div class="gallery-title">我的车</div>
   <div class="gallery">
     <img src="/assets/images/car1.jpg" alt="car1">
     <img src="/assets/images/car2.jpg" alt="car2">
@@ -62,10 +70,10 @@ permalink: /gallery/
 
 ---
 
-### <a name="japan"></a>🌸 日本旅游
+### <a name="japan"></a> Trip in Japan
 
 <div class="gallery-section">
-  <div class="gallery-title">日本旅游</div>
+
   <div class="gallery">
     <img src="/assets/images/japan1.jpg" alt="japan1">
     <img src="/assets/images/japan2.jpg" alt="japan2">
