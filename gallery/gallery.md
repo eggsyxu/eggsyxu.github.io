@@ -64,7 +64,6 @@ permalink: /gallery/
     <img src="/assets/images/car2.jpg" alt="car2">
     <img src="/assets/images/car3.jpg" alt="car3">
     <img src="/assets/images/car4.jpg" alt="car4">
-    <img src="/assets/images/car5.jpg" alt="car5">
   </div>
 </div>
 
