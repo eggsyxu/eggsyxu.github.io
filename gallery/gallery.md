@@ -18,20 +18,19 @@ permalink: /gallery/
 }
 
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  justify-content: flex-start;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 12px;
+  justify-items: center;
 }
 
 .gallery img {
-  flex: 1 1 calc(50% - 10px); /* 每张图最小33%，自动排布 */
-  max-width: calc(50% - 10px);
+  width: 100%;
   height: auto;
   border-radius: 8px;
-  object-fit: cover;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  object-fit: contain; /* 保留原始比例，不裁剪 */
 }
 
 .gallery img:hover {
