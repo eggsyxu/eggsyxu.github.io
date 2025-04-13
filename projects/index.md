@@ -23,7 +23,14 @@ Led image recognition and object detection development using RealSense and YOLO,
 Developed autonomous driving decision algorithms with reinforcement learning and Spiking Neural Networks (SNN). Designed a custom motor controller and USB communication hub for Jetson Orin NX, interfacing with radar and camera sensors. Successfully validated the SNN-based decision-making in scaled-down sandbox environments.
 
 **Demo Video**  
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Mub_i6BhtVU" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Mub_i6BhtVU"
+          frameborder="0"
+          allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
 
 
 ---
