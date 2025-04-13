@@ -30,7 +30,7 @@ Developed autonomous driving decision algorithms with reinforcement learning and
 
 **Demo Video**  
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/watch?v=3IOFvaw55YE"
+  <iframe src="https://www.youtube.com/embed/3IOFvaw55YE"
           frameborder="0"
           allowfullscreen
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
@@ -51,7 +51,7 @@ Designed a bio-interfacing control system for a 4-DOF robotic arm using EMG sign
 
 **Demo Video**  
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://youtu.be/PFWf_vP2flQ"
+  <iframe src="https://www.youtube.com/embed/PFWf_vP2flQ"
           frameborder="0"
           allowfullscreen
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
@@ -68,7 +68,7 @@ Engineered a soft robotic gripper using 3D-printed molds and custom-designed the
 
 **Demo Video**  
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://youtu.be/z0tOPf2_Jnw "
+  <iframe src="https://www.youtube.com/embed/z0tOPf2_Jnw "
           frameborder="0"
           allowfullscreen
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
