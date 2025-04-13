@@ -77,7 +77,6 @@ permalink: /gallery/
     <img src="/assets/images/japan1.jpg" alt="japan1">
     <img src="/assets/images/japan2.jpg" alt="japan2">
     <img src="/assets/images/japan3.jpg" alt="japan3">
-    <img src="/assets/images/japan4.jpg" alt="japan4">
   </div>
 </div>
 
