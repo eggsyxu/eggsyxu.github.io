@@ -23,7 +23,7 @@ Led image recognition and object detection development using RealSense and YOLO,
 Developed autonomous driving decision algorithms with reinforcement learning and Spiking Neural Networks (SNN). Designed a custom motor controller and USB communication hub for Jetson Orin NX, interfacing with radar and camera sensors. Successfully validated the SNN-based decision-making in scaled-down sandbox environments.
 
 **Demo Video**  
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Mub_i6BhtVU" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://youtu.be/Mub_i6BhtVU" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -52,9 +52,6 @@ Designed a bio-interfacing control system for a 4-DOF robotic arm using EMG sign
 **GitHub:** [View Project](https://github.com/eggsyxu/Rope_Climbing_Robot)
 
 Designed and simulated a rope-climbing robot in SolidWorks and ANSYS, optimizing mechanical structures for gait stability. Conducted stress analyses to ensure operational reliability under various load conditions.
-
-**Demo Video**  
-{% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
 
 
 
