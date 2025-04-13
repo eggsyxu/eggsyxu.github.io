@@ -46,14 +46,13 @@ permalink: /gallery/
 
 ---
 
-## 📸 Gallery
 
 ### <a name="car"></a> My car: CT5-V Blackwing
 
 <div class="gallery-section">
   <div class="gallery-title">我的车</div>
   <div class="gallery">
-    <img src="/assets/images/IMG_5181.HEIC" alt="car1">
+    <img src="/assets/images/car1.jpg" alt="car1">
     <img src="/assets/images/car2.jpg" alt="car2">
     <img src="/assets/images/car3.jpg" alt="car3">
     <img src="/assets/images/car4.jpg" alt="car4">
