@@ -13,18 +13,17 @@ permalink: /projects/
 Led image recognition and object detection development using RealSense and YOLO, with sensor fusion of lidar and IMU for mapping. Designed and simulated a 12-DOF quadruped robot’s leg mechanics to enhance stability and mobility through optimized gait patterns.
 
 **Demo Video**  
-{% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
+{% include video id="https://youtu.be/Mub_i6BhtVU " provider="youtube" %}
 
 
 ---
 
 ### Reinforcement Learning & SNN for Autonomous Driving  
-**GitHub:** [View Project](https://github.com/YOUR_USERNAME/rl-snn-driving)
 
 Developed autonomous driving decision algorithms with reinforcement learning and Spiking Neural Networks (SNN). Designed a custom motor controller and USB communication hub for Jetson Orin NX, interfacing with radar and camera sensors. Successfully validated the SNN-based decision-making in scaled-down sandbox environments.
 
 **Demo Video**  
-{% include video id="YOUR_YOUTUBE_VIDEO_ID" provider="youtube" %}
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Mub_i6BhtVU" frameborder="0" allowfullscreen></iframe>
 
 ---
 
