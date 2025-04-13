@@ -2,7 +2,6 @@
 layout: single
 title: "Gallery"
 permalink: /gallery/
-classes: wide
 ---
 
 <style>
@@ -26,8 +25,8 @@ classes: wide
 }
 
 .gallery img {
-  flex: 1 1 calc(33.33% - 10px); /* 每张图最小33%，自动排布 */
-  max-width: calc(33.33% - 10px);
+  flex: 1 1 calc(50% - 10px); /* 每张图最小33%，自动排布 */
+  max-width: calc(50% - 10px);
   height: auto;
   border-radius: 8px;
   object-fit: cover;
