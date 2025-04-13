@@ -61,8 +61,8 @@ permalink: /gallery/
 <div class="gallery-section">
   <div class="gallery">
     <img src="/assets/images/car1.jpg" alt="car1">
-    <img src="/assets/images/car2.jpg" alt="car2">
-    <img src="/assets/images/car3.jpg" alt="car3">
+    <img src="/assets/images/car2.JPG" alt="car2">
+    <img src="/assets/images/car3.JPG" alt="car3">
     <img src="/assets/images/car4.jpg" alt="car4">
   </div>
 </div>
