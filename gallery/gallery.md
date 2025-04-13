@@ -2,6 +2,7 @@
 layout: single
 title: "Gallery"
 permalink: /gallery/
+classes: wide
 ---
 
 <style>
