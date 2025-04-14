@@ -54,6 +54,8 @@ permalink: /gallery/
 </style>
 ---
 
+[🚗 My Car](#car) | [🇺🇸 USA](#usa) | [🇨🇳 China](#china) | [🇯🇵 Japan](#japan)
+
 
 ### <a name="car"></a> My car: CT5-V Blackwing
 
@@ -68,16 +70,48 @@ permalink: /gallery/
 
 ---
 
-### <a name="japan"></a> Trip in Japan
+### <a name="usa"></a> USA
 
 <div class="gallery-section">
 
   <div class="gallery">
-    <img src="/assets/images/japan1.jpg" alt="japan1">
-    <img src="/assets/images/japan2.jpg" alt="japan2">
-    <img src="/assets/images/japan3.jpg" alt="japan3">
+    <img src="/assets/images/usa1.jpg" alt="usa1">
+    <img src="/assets/images/usa2.jpg" alt="usa2">
+    <img src="/assets/images/usa3.jpg" alt="usa3">
   </div>
 </div>
+
+
+---
+
+### <a name="china"></a> China
+
+<div class="gallery-section">
+
+  <div class="gallery">
+    <img src="/assets/images/china1.jpg" alt="china1">
+    <img src="/assets/images/china2.jpg" alt="china2">
+    <img src="/assets/images/china3.jpg" alt="china3">
+  </div>
+</div>
+
+---
+
+### <a name="japan"></a> Japan
+
+### <a name="japan"></a> Japan
+
+<div class="gallery-section">
+  <div class="gallery">
+    <img src="/assets/images/japan1.JPG" alt="japan1">
+    <img src="/assets/images/japan2.JPG" alt="japan2">
+    <img src="/assets/images/japan3.JPG" alt="japan3">
+    <img src="/assets/images/japan4.JPG" alt="japan4">
+    <img src="/assets/images/japan5.JPG" alt="japan5">
+    <img src="/assets/images/japan6.JPG" alt="japan6">
+  </div>
+</div>
+
 
 ---
 
