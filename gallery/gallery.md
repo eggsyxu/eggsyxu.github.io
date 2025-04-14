@@ -107,8 +107,6 @@ permalink: /gallery/
 
 ### <a name="japan"></a> Japan
 
-### <a name="japan"></a> Japan
-
 <div class="gallery-section">
   <div class="gallery">
     <img src="/assets/images/japan1.JPG" alt="japan1">
