@@ -54,7 +54,7 @@ permalink: /gallery/
 </style>
 ---
 
-[My Car](#car) | [USA](#usa) | [China](#china) | [1Japan](#japan)
+[My Car](#car) | [USA](#usa) | [China](#china) | [Japan](#japan)
 
 
 ### <a name="car"></a> My car: CT5-V Blackwing
