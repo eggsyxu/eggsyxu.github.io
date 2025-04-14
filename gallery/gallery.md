@@ -73,11 +73,16 @@ permalink: /gallery/
 ### <a name="usa"></a> USA
 
 <div class="gallery-section">
-
   <div class="gallery">
-    <img src="/assets/images/usa1.jpg" alt="usa1">
-    <img src="/assets/images/usa2.jpg" alt="usa2">
-    <img src="/assets/images/usa3.jpg" alt="usa3">
+    <img src="/assets/images/usa1.JPG" alt="usa1">
+    <img src="/assets/images/usa2.JPG" alt="usa2">
+    <img src="/assets/images/usa3.JPG" alt="usa3">
+    <img src="/assets/images/usa4.JPG" alt="usa4">
+    <img src="/assets/images/usa5.JPG" alt="usa5">
+    <img src="/assets/images/usa6.JPG" alt="usa6">
+    <img src="/assets/images/usa7.JPG" alt="usa7">
+    <img src="/assets/images/usa8.JPG" alt="usa8">
+    <img src="/assets/images/usa9.JPG" alt="usa9">
   </div>
 </div>
 
@@ -87,11 +92,14 @@ permalink: /gallery/
 ### <a name="china"></a> China
 
 <div class="gallery-section">
-
   <div class="gallery">
-    <img src="/assets/images/china1.jpg" alt="china1">
-    <img src="/assets/images/china2.jpg" alt="china2">
-    <img src="/assets/images/china3.jpg" alt="china3">
+    <img src="/assets/images/china1.JPG" alt="china1">
+    <img src="/assets/images/china2.JPG" alt="china2">
+    <img src="/assets/images/china3.JPG" alt="china3">
+    <img src="/assets/images/china4.JPG" alt="china4">
+    <img src="/assets/images/china5.JPG" alt="china5">
+    <img src="/assets/images/china6.JPG" alt="china6">
+    <img src="/assets/images/china7.JPG" alt="china7">
   </div>
 </div>
 
