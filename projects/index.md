@@ -4,9 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-
-
-
 ### Development and Autonomous Navigation of 8-DOF and 12-DOF Quadruped Robots
 **GitHub:** [View Project](https://github.com/eggsyxu/Pangolin_SCU/tree/master)
 
@@ -38,9 +35,42 @@ Developed autonomous driving decision algorithms with reinforcement learning and
 </div>
 
 
+### Nonlinear MPC for a Planar Biped using Contact-Constrained Trajectory Optimization  
+**Report**: [PDF](/assets/pdfs/Guangxuan_Xu_ROB599_2_final_report.pdf) | **GitHub:** [View Project](https://github.com/eggsyxu/ROB_599_2)
 
+Developed a nonlinear model pre-dictive
+control framework for a 5-link biped robot with a contact-constrained
+trajectory optimization method to generate squating,
+walking and jumping motion.
 
+**Demo Video**  
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/9Hoex0NkXvE?si=bdb9-59gwMpwxpMX"
+          frameborder="0"
+          allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
+---
+
+### Robot Localization for PR2 Using Kalman Filter and Particle Filter  
+**Report**: [PDF](/assets/pdfs/Robot_Localization_for_PR2_Using_Kalman_Filter_and_Particle_Filter.pdf) | **GitHub:** [View Project](https://github.com/eggsyxu/ROB_422)
+
+This project investigates the problem of robot localization for a PR2 robot navigating in an
+environment with obstacles. A simple location sensor is implemented in PyBullet to provide
+noisy observations of the robot’s true position. Given a predeffned and nontrivial navigation
+path, the robot’s pose is estimated online using two probabilistic state estimation methods: a
+Kalman fflter and a particle fflter.
+
+**Demo Video**  
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/6-SGbZfGWPM?si=MTVIWkc7AJmYrvgs"
+          frameborder="0"
+          allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ---
 
