@@ -81,7 +81,7 @@ Designed a bio-interfacing control system for a 4-DOF robotic arm using EMG sign
 
 **Demo Video**  
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/PFWf_vP2flQ"
+  <iframe src="https://www.youtube.com/embed/ASXWjdyEQyk?si=_5n6_MFQx-LjDzIV"
           frameborder="0"
           allowfullscreen
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
