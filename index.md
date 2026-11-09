@@ -1,28 +1,21 @@
 ---
 layout: single
 author_profile: true
-title: "About Me"
+title: "Guangxuan (Eddie) Xu"
+classes: home-page
 permalink: /
 ---
 
+Robotics & Biomedical Engineering · University of Michigan
+{: .home-intro}
 
+I’m pursuing a dual master’s degree, with research focused on legged robots, biosignal-driven prosthetics, and vision–language–action (VLA) models for robotic manipulation.
 
-My name is Guangxuan (Eggsy) Xu. Welcome to my world! 
+I earned my bachelor’s degree in Measurement, Control, and Instrumentation at Sichuan University and was a visiting student at Westlake University, where I worked with Professor Mohamad Sawan.
 
-I’m currently a master’s student at the University of Michigan, pursuing a dual degree in Robotics and Biomedical Engineering. 
+## Outside the Lab
 
-My research focuses on legged robots, bio-sensing driven prosthetics, and robotic arms. I received my bachelor’s degree in Measurement, Control, and Instrumentation from Sichuan University, and previously worked as a visiting student at Westlake University under the supervision of Professor Mohamad Sawan.
+I enjoy racing, drifting, jet skiing, snowmobiling, badminton, photography, home theater audio, and playing piano and electric guitar.
 
-Outside of academics, I have a wide range of interests, especially in motorsports. I enjoy racing, drifting, jet skiing, and snowmobiling, as well as playing badminton, photography, and exploring home theater audio systems.
-
-
-
-- Explore my [Projects](/projects/)
-- Read some [Poems](/poems/)
-- See my [Gallery](/gallery/)
-
-
-
-
-
-
+- Explore my [Projects]({{ '/projects/' | relative_url }})
+- See my [Gallery]({{ '/gallery/' | relative_url }})

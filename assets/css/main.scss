@@ -7,3 +7,17 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.home-page {
+  .author__avatar img {
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: 74% center;
+  }
+
+  .home-intro {
+    margin-top: 0.5em;
+    color: #315d64;
+    font-weight: 600;
+  }
+}

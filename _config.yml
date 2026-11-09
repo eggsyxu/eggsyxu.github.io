@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Eggsy Xu"
+title                    : "Eddie Xu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Eggsy Xu"
-description              : "Eggsy Xu"
+name                     : "Eddie Xu"
+description              : "Eddie Xu"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eggsy Xu"
-  avatar           : "/assets/images/IMG_5615.jpg"
-  bio              : "Roboticist · Poet · Racer"
+  name             : "Eddie Xu"
+  avatar           : "/assets/images/home-profile.png"
+  bio              : "Roboticist · Racer"
   location         : "Ann Arbor, MI"
   email            : # eggsyxu@umich.edu
   links:
@@ -137,12 +137,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@eggsyxu"
-    - label: "Bilibili"
-      icon: "fas fa-fw fa-tv"
-      url: "https://space.bilibili.com/497284028?spm_id_from=333.1007.0.0"
 
 
 # Site Footer

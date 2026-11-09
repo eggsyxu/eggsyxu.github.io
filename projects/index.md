@@ -35,6 +35,25 @@ Developed autonomous driving decision algorithms with reinforcement learning and
 </div>
 
 
+---
+
+### Vision–Language–Action for Robotic Block Stacking
+
+This project explores vision–language–action (VLA) control for tabletop manipulation. The demo shows a robotic arm picking up colored blocks and stacking them one at a time. The task illustrates how visual observations and language instructions can guide a sequence of grasps and placements.
+
+**Demo Video**
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/kJT-8Vv3yDk"
+          title="VLA robotic block stacking demo"
+          frameborder="0"
+          allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---
+
 ### Nonlinear MPC for a Planar Biped using Contact-Constrained Trajectory Optimization  
 **Report**: [PDF](/assets/pdfs/Guangxuan_Xu_ROB599_2_final_report.pdf) | **GitHub:** [View Project](https://github.com/eggsyxu/ROB_599_2)
 
@@ -104,6 +123,13 @@ Engineered a soft robotic gripper using 3D-printed molds and custom-designed the
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
+
+---
+
+### End-to-End Autonomous Drone Target Tracking Using Vision
+**Report:** [PDF]({{ '/assets/pdfs/End_to_End_Autonomous_Drone_Target_Tracking_using_Vision.pdf' | relative_url }})
+
+Developed a vision-based drone controller that uses Soft Actor-Critic (SAC) to turn onboard RGB images into velocity commands. Trained the policy in AirSim, visualized tracking in RViz, and evaluated its performance on square and figure-eight trajectories. The report compares the learned controller with a baseline that combines YOLOv5 detection, SORT tracking, and PD control.
 
 ---
 
